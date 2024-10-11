@@ -4,5 +4,5 @@ main: main.c mymath.h mymath.o
 mymath.o: mymath.c
 	$(CC) -c mymath.c
 clean:
-	rm -f *.o main
+	rm -f *.o
 	rm -f main
