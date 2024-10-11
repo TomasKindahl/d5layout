@@ -2,4 +2,4 @@
 
 Alla utvecklingsfiler, källkod, Makefiles med mera.
 
-[README](../README.md)
+[README](..)
