@@ -2,5 +2,5 @@
 
 "Bibliotek" med återanvändbara funktioner.
 
-[README](../README.md)
+[Upp](..)
 
